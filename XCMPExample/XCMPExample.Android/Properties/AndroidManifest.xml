@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.xcmpexample" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="24" android:targetSdkVersion="31" />
+	<application android:label="XCMPExample.Android" android:theme="@style/MainTheme">
+		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCZ8sL_XTdtfC_Cl6G0OIX4Z1KACQvbe6o" />
+	</application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>
